@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<calendar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  
+  <!-- January -->
+  <calendarDate date="0101" namedays="" holidays="Nový rok, Deň vzniku Slovenskej republiky" worldDay="Svetový deň mieru"/>
+  <calendarDate date="0102" namedays="Alexandra, Karina" holidays="" worldDay=""/>
+  <calendarDate date="0103" namedays="Daniela" holidays="" worldDay=""/>
+  <calendarDate date="0104" namedays="Drahoslav" holidays="" worldDay="Svetový Braillov deň"/>
+  <calendarDate date="0105" namedays="Andrea" holidays="" worldDay=""/>
+  
+  <calendarDate date="0106" namedays="Antónia" holidays="Zjavenie Pána (Traja králi)" worldDay="Svetový deň vojnových sirôt"/>
+  <calendarDate date="0107" namedays="Bohuslava" holidays="" worldDay=""/>
+  <calendarDate date="0108" namedays="Severín" holidays="" worldDay=""/>
+  <calendarDate date="0109" namedays="Alexej" holidays="" worldDay=""/>
+  <calendarDate date="0110" namedays="Dáša" holidays="" worldDay=""/>
+  
+  <calendarDate date="0111" namedays="Malvína" holidays="" worldDay=""/>
+  <calendarDate date="0112" namedays="Ernest" holidays="" worldDay=""/>
+  <calendarDate date="0113" namedays="Rastislav" holidays="" worldDay=""/>
+  <calendarDate date="0114" namedays="Radovan" holidays="" worldDay=""/>
+  <calendarDate date="0115" namedays="Dobroslav" holidays="" worldDay="Svetový deň armády"/>
+  
+  <calendarDate date="0116" namedays="Kristína" holidays="" worldDay=""/>
+  <calendarDate date="0117" namedays="Nataša" holidays="" worldDay=""/>
+  <calendarDate date="0118" namedays="Bohdana" holidays="" worldDay=""/>
+  <calendarDate date="0119" namedays="Drahomíra, Mário" holidays="" worldDay=""/>
+  <calendarDate date="0120" namedays="Dalibor" holidays="" worldDay=""/>
+  
+  <calendarDate date="0121" namedays="Vincent" holidays="" worldDay=""/>
+  <calendarDate date="0122" namedays="Zora" holidays="" worldDay=""/>
+  <calendarDate date="0123" namedays="Miloš" holidays="" worldDay="Deň patriotizmu"/>
+  <calendarDate date="0124" namedays="Timotej" holidays="" worldDay="Deň komplimentov, Sviatok sv. František Saleský"/>
+  <calendarDate date="0125" namedays="Gejza" holidays="" worldDay="Svetový deň lepry, Sviatok Obrátenia Pavla"/>
+  
+  <calendarDate date="0126" namedays="Tamara" holidays="" worldDay="Medzinárodný deň colníctva"/>
+  <calendarDate date="0127" namedays="Bohuš" holidays="" worldDay="Medzinárodný deň pamiatky obetí holokaustu"/>
+  <calendarDate date="0128" namedays="Alfonz" holidays="" worldDay="Európsky deň ochrany osobných údajov, Medzinárodný deň mobilizácie proti jadrovej vojne"/>
+  <calendarDate date="0129" namedays="Gašpar" holidays="" worldDay=""/>
+  <calendarDate date="0130" namedays="Ema" holidays="" worldDay=""/>
+  
+  <calendarDate date="0131" namedays="Emil" holidays="" worldDay=""/>
+  
+  <!-- February -->
+  <calendarDate date="0201" namedays="Tatiana" holidays="" worldDay=""/>
+  <calendarDate date="0202" namedays="Erika, Erik" holidays="" worldDay="Svetový deň mokradí, Svetový deň zasväteného života"/>
+  <calendarDate date="0203" namedays="Blažej" holidays="" worldDay=""/>
+  <calendarDate date="0204" namedays="Veronika" holidays="" worldDay="Svetový deň proti rakovine"/>
+  <calendarDate date="0205" namedays="Agáta" holidays="" worldDay=""/>
+  
+  <calendarDate date="0206" namedays="Dorota" holidays="" worldDay="Svetový deň bez mobilu"/>
+  <calendarDate date="0207" namedays="Vanda" holidays="" worldDay=""/>
+  <calendarDate date="0208" namedays="Zoja" holidays="" worldDay="Svetový deň manželstva, Deň pre bezpečnejší internet"/>
+  <calendarDate date="0209" namedays="Zdenko" holidays="" worldDay=""/>
+  <calendarDate date="0210" namedays="Gabriela" holidays="" worldDay=""/>
+  
+  <calendarDate date="0211" namedays="Dezider" holidays="" worldDay="Svetový deň chorých"/>
+  <calendarDate date="0212" namedays="Perla" holidays="" worldDay=""/>
+  <calendarDate date="0213" namedays="Arpád" holidays="" worldDay=""/>
+  <calendarDate date="0214" namedays="Valentín" holidays="" worldDay="Deň zaľúbených"/>
+  <calendarDate date="0215" namedays="Pravoslav" holidays="" worldDay="Deň osamelých, Európsky deň perioperačnej ošetrovateľskej starostlivosti sestier"/>
+  
+  <calendarDate date="0216" namedays="Ida, Liana" holidays="" worldDay=""/>
+  <calendarDate date="0217" namedays="Miloslava" holidays="" worldDay=""/>
+  <calendarDate date="0218" namedays="Jaromír" holidays="" worldDay=""/>
+  <calendarDate date="0219" namedays="Vlasta" holidays="" worldDay=""/>
+  <calendarDate date="0220" namedays="Lívia" holidays="" worldDay="Svetový deň sociálnej spravodlivosti"/>
+  
+  <calendarDate date="0221" namedays="Eleonóra" holidays="" worldDay="Medzinárodný deň materského jazyka (UNESCO), Medzinárodný deň turistických sprievodcov"/>
+  <calendarDate date="0222" namedays="Etela" holidays="" worldDay="Európsky deň obetí zločinu, Medzinárodný deň skautiek"/>
+  <calendarDate date="0223" namedays="Roman, Romana" holidays="" worldDay=""/>
+  <calendarDate date="0224" namedays="Matej" holidays="" worldDay=""/>
+  <calendarDate date="0225" namedays="Frederik, Frederika" holidays="" worldDay=""/>
+  
+  <calendarDate date="0226" namedays="Viktor" holidays="" worldDay=""/>
+  <calendarDate date="0227" namedays="Alexander" holidays="" worldDay=""/>
+  <calendarDate date="0228" namedays="Zlatica" holidays="" worldDay=""/>
+  <calendarDate date="0229" namedays="Radomír" holidays="" worldDay=""/>
+  
+  <!-- March -->
+  <calendarDate date="0301" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0302" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0303" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0304" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0305" namedays="" holidays="" worldDay=""/>
+  
+  <calendarDate date="0306" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0307" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0308" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0309" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0310" namedays="" holidays="" worldDay=""/>
+  
+  <calendarDate date="0311" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0312" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0313" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0314" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0315" namedays="" holidays="" worldDay=""/>
+  
+  <calendarDate date="0316" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0317" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0318" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0319" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0320" namedays="" holidays="" worldDay=""/>
+  
+  <calendarDate date="0321" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0322" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0323" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0324" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0325" namedays="" holidays="" worldDay=""/>
+  
+  <calendarDate date="0326" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0327" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0328" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0329" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0330" namedays="" holidays="" worldDay=""/>
+
+
+
+
+
+
+
+
+
+
+  <!-- June -->
+  <calendarDate date="0601" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0602" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0703" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0604" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0605" namedays="" holidays="" worldDay=""/>
+
+  <calendarDate date="0606" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0607" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0608" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0609" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0610" namedays="" holidays="" worldDay=""/>
+
+  <calendarDate date="0611" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0612" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0613" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0614" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0615" namedays="" holidays="" worldDay=""/>
+
+  <calendarDate date="0616" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0617" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0618" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0619" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0620" namedays="" holidays="" worldDay=""/>
+
+  <calendarDate date="0621" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0622" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0623" namedays="" holidays="" worldDay=""/>
+  <calendarDate date="0624" namedays="Ján" holidays="" worldDay=""/>
+  <calendarDate date="0625" namedays="Olívia, Tadeáš" holidays="" worldDay=""/>
+
+  <calendarDate date="0626" namedays="Adriána" holidays="" worldDay="Medzinárodný deň OSN na podporu obetí týrania, Medzinárodný deň proti zneužívaniu drog a nezákonnému obchodovaniu"/>
+  <calendarDate date="0627" namedays="Ladislav, Ladislava" holidays="" worldDay="Svetový deň rybárstva"/>
+  <calendarDate date="0628" namedays="Beáta" holidays="" worldDay=""/>
+  <calendarDate date="0629" namedays="Peter, Pavol, Petra" holidays="" worldDay="Medzinárodný deň Dunaja"/>
+  <calendarDate date="0630" namedays="Melánia" holidays="" worldDay=""/>
+
+
+
+
+
+
+
+  <!-- July -->
+  <calendarDate date="0701" namedays="Diana" holidays="" worldDay="Medzinárodný deň vtipov"/>
+  <calendarDate date="0702" namedays="Berta" holidays="" worldDay="Svetový deň UFO, Medzinárodný deň družstiev"/>
+  <calendarDate date="0703" namedays="Miloslav" holidays="" worldDay=""/>
+  <calendarDate date="0704" namedays="Prokop" holidays="" worldDay="Medzinárodný deň proti chovu delfínov v zajatí"/>
+  <calendarDate date="0705" namedays="Cyril, Metod" holidays="Sviatok svätého Cyrila a Metoda" worldDay="Deň workoholikov, Deň zahraničných Slovákov"/>
+
+  <calendarDate date="0706" namedays="Patrik, Patrícia" holidays="" worldDay="Medzinárodný deň bozkávania"/>
+  <calendarDate date="0707" namedays="Oliver" holidays="" worldDay="Deň čokolády"/>
+  <calendarDate date="0708" namedays="Ivan" holidays="" worldDay="Svetový deň alergii, Deň videohier"/>
+  <calendarDate date="0709" namedays="Lujza" holidays="" worldDay="Medzinárodný deň za zničenie malých a ľahkých zbraní"/>
+  <calendarDate date="0710" namedays="Amália" holidays="" worldDay=""/>
+
+  <calendarDate date="0711" namedays="Milota" holidays="" worldDay="Svetový deň populácie (UNFPA)"/>
+  <calendarDate date="0712" namedays="Nina" holidays="" worldDay=""/>
+  <calendarDate date="0713" namedays="Margita" holidays="" worldDay="Medzinárodný deň hlavolamov"/>
+  <calendarDate date="0714" namedays="Kamil" holidays="" worldDay=""/>
+  <calendarDate date="0715" namedays="Henrich" holidays="" worldDay=""/>
+
+  <calendarDate date="0716" namedays="Drahomír, Rút" holidays="" worldDay=""/>
+  <calendarDate date="0717" namedays="Bohuslav" holidays="" worldDay="Výročie deklarácie o zvrchovanosti SR"/>
+  <calendarDate date="0718" namedays="Kamila" holidays="" worldDay=""/>
+  <calendarDate date="0719" namedays="Dušana" holidays="" worldDay=""/>
+  <calendarDate date="0720" namedays="Iľja, Eliáš" holidays="" worldDay=""/>
+
+  <calendarDate date="0721" namedays="Daniel" holidays="" worldDay=""/>
+  <calendarDate date="0722" namedays="Magdaléna" holidays="" worldDay=""/>
+  <calendarDate date="0723" namedays="Oľga" holidays="" worldDay=""/>
+  <calendarDate date="0724" namedays="Vladimír" holidays="" worldDay=""/>
+  <calendarDate date="0725" namedays="Jakub, Timur" holidays="" worldDay=""/>
+
+  <calendarDate date="0726" namedays="Anna, Hana, Anita" holidays="" worldDay=""/>
+  <calendarDate date="0727" namedays="Božena" holidays="" worldDay=""/>
+  <calendarDate date="0728" namedays="Krištof" holidays="" worldDay=""/>
+  <calendarDate date="0729" namedays="Marta" holidays="" worldDay=""/>
+  <calendarDate date="0730" namedays="Libuša" holidays="" worldDay="Medzinárodný deň priateľstva"/>
+  
+  <calendarDate date="0731" namedays="Ignác" holidays="" worldDay="Sviatok sv. Ignáca z Loyoly"/>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <!-- November -->
+  <calendarDate date="1101" namedays="Denis, Denisa" holidays="Sviatok všetkých svätých" worldDay="Svetový deň vegánov"/>
+  <calendarDate date="1102" namedays="" holidays="" worldDay="Pamiatka zosnulých"/>
+  <calendarDate date="1103" namedays="Hubert" holidays="" worldDay="Sviatok sv. Huberta, patróna poľovníkov"/>
+  <calendarDate date="1104" namedays="Karol" holidays="" worldDay=""/>
+  <calendarDate date="1105" namedays="Imrich" holidays="" worldDay="Svetový deň behu"/>
+
+  <calendarDate date="1106" namedays="Renáta" holidays="" worldDay="Medzinárodný deň ochrany životného prostredia pred ničením počas vojny a ozbrojeného konfliktu"/>
+  <calendarDate date="1107" namedays="René" holidays="" worldDay=""/>
+  <calendarDate date="1108" namedays="Bohumír" holidays="" worldDay="Svetový deň urbanizmu, svetový deň röntgenológie a röntgenológov"/>
+  <calendarDate date="1109" namedays="Teodor" holidays="" worldDay="Medzinárodný deň proti fašizmu a antisemitizmu, Svetový deň slobody"/>
+  <calendarDate date="1110" namedays="Tibor" holidays="" worldDay="Svetový deň vedy pre mier a rozvoj (UNESCO)"/>
+
+  <calendarDate date="1111" namedays="Martin, Maroš" holidays="" worldDay="Svetový deň použiteľnosti, Deň veteránov"/>
+  <calendarDate date="1112" namedays="Svätopluk" holidays="" worldDay=""/>
+  <calendarDate date="1113" namedays="Stanislav" holidays="" worldDay="Medzinárodný deň nevidomých, Svetový deň dobrosrdečnosti, Deň Guinnessových svetových rekordov "/>
+  <calendarDate date="1114" namedays="Irma" holidays="" worldDay="Svetový deň diabetu"/>
+  <calendarDate date="1115" namedays="Leopold" holidays="" worldDay="Svetový deň na pamiatku obetí havárii na cestách, Deň väznených spisovateľov, Sviatok sv. Alberta Veľkého, patróna vedcov"/>
+
+  <calendarDate date="1116" namedays="Agnesa" holidays="" worldDay="Medzinárodný deň tolerancie (UNESCO)"/>
+  <calendarDate date="1117" namedays="Klaudia" holidays="Deň boja za slobodu a demokraciu" worldDay="Medzinárodný deň študentstva, Svetový deň chronickej obštrukčnej choroby pľúc, Sviatok sv. Alžbety Bratislavskej, patrónky charity"/>
+  <calendarDate date="1118" namedays="Eugen" holidays="" worldDay="Medzinárodný deň geografických informačných systémov"/>
+  <calendarDate date="1119" namedays="Alžbeta" holidays="" worldDay="Svetový deň prevencie týrania a zneužívania detí, Svetovy deň toaliet"/>
+  <calendarDate date="1120" namedays="Félix" holidays="" worldDay="Svetový deň detí (UNESCO), Svetový deň absurdít, Medzinárodný deň bez fajčenia, Medzinárodný deň modlitieb za prenasledovanú cirkev, Deň spriemyselnenia Afriky"/>
+
+  <calendarDate date="1121" namedays="Elvíra" holidays="" worldDay="Svetový deň filozofie (UNESCO), Svetový deň televízie, Svetový deň pozdravov"/>
+  <calendarDate date="1122" namedays="Cecília" holidays="" worldDay="Sviatok sv. Cecílie, patrónky hudby, hudobníkov a spevákov"/>
+  <calendarDate date="1123" namedays="Klement" holidays="" worldDay=""/>
+  <calendarDate date="1124" namedays="Emília" holidays="" worldDay=""/>
+  <calendarDate date="1125" namedays="Katarína" holidays="" worldDay="Svetový deň odstránenia násilia voči ženám, Medzinárodný deň mäsa a deň práv zvierat"/>
+
+  <calendarDate date="1126" namedays="Kornel" holidays="" worldDay=""/>
+  <calendarDate date="1127" namedays="Milan" holidays="" worldDay="Medzinárodný deň nenakupovania"/>
+  <calendarDate date="1128" namedays="Henrieta" holidays="" worldDay=""/>
+  <calendarDate date="1129" namedays="Vratko" holidays="" worldDay="Medzinárodný deň solidarity s ľuďmi Palestíny"/>
+  <calendarDate date="1130" namedays="Ondrej, Andrej" holidays="" worldDay="Deň počítačovej bezpečnosti"/>
+
+  <!-- December -->
+  <calendarDate date="1201" namedays="Edmund" holidays="" worldDay="Svetový deň boja proti AIDS (WHO)"/>
+  <calendarDate date="1202" namedays="Bibiána" holidays="" worldDay="Svetový deň zrušenia otroctva"/>
+  <calendarDate date="1203" namedays="Oldrich" holidays="" worldDay="Medzinárodný deň osôb so zdravotným postihnutím (OSN), Sviatok sv. Františka Xaverského patrón diela šírenia viery (misionárov)"/>
+  <calendarDate date="1204" namedays="Barbora, Barbara" holidays="" worldDay="Sviatok sv. Barbory patrónky baníkov a delostrelcov"/>
+  <calendarDate date="1205" namedays="Oto" holidays="" worldDay="Svetový deň pôdy, Medzinárodný deň dobrovoľníkov v ekonomickom a sociálnom rozvoji"/>
+
+  <calendarDate date="1206" namedays="Mikuláš" holidays="" worldDay="Sviatok sv. Mikuláša, patróna detí"/>
+  <calendarDate date="1207" namedays="Ambróz" holidays="" worldDay="Medzinárodný deň civilnej leteckej prepravy (ICAO)"/>
+  <calendarDate date="1208" namedays="Marína" holidays="" worldDay=""/>
+  <calendarDate date="1209" namedays="Izabela" holidays="" worldDay="Medzinárodný deň boja proti korupcii"/>
+  <calendarDate date="1210" namedays="Radúz" holidays="" worldDay="Deň ľudských práv"/>
+
+  <calendarDate date="1211" namedays="Hilda" holidays="" worldDay="Medzinárodný deň hôr, Medzinárodný deň vysielania pre deti"/>
+  <calendarDate date="1212" namedays="Otília" holidays="" worldDay=""/>
+  <calendarDate date="1213" namedays="Lucia" holidays="" worldDay=""/>
+  <calendarDate date="1214" namedays="Branislava, Bronislava" holidays="" worldDay=""/>
+  <calendarDate date="1215" namedays="Ivica" holidays="" worldDay=""/>
+  
+  <calendarDate date="1216" namedays="Albína" holidays="" worldDay=""/>
+  <calendarDate date="1217" namedays="Kornélia" holidays="" worldDay=""/>
+  <calendarDate date="1218" namedays="Sláva" holidays="" worldDay="Medzinárodný deň migrantov, Medzinárodný deň poštovej známky a filatelie"/>
+  <calendarDate date="1219" namedays="Judita" holidays="" worldDay="OSN deň pre spoluprácu Juh-Juh"/>
+  <calendarDate date="1220" namedays="Dagmara" holidays="" worldDay="Medzinárodný deň ľudskej solidarity"/>
+
+  <calendarDate date="1221" namedays="Bohdan" holidays="" worldDay=""/>
+  <calendarDate date="1222" namedays="Adela" holidays="" worldDay=""/>
+  <calendarDate date="1223" namedays="Nadežda" holidays="" worldDay=""/>
+  <calendarDate date="1224" namedays="Adam, Eva" holidays="Štedrý deň" worldDay=""/>
+  <calendarDate date="1225" namedays="" holidays="Prvý sviatok vianočný" worldDay=""/>
+
+  <calendarDate date="1226" namedays="Štefan" holidays="Druhý sviatok vianočný" worldDay=""/>
+  <calendarDate date="1227" namedays="Filoména" holidays="" worldDay=""/>
+  <calendarDate date="1228" namedays="Ivana, Ivona" holidays="" worldDay=""/>
+  <calendarDate date="1229" namedays="Milada" holidays="" worldDay=""/>
+  <calendarDate date="1230" namedays="Dávid" holidays="" worldDay="Deň vyhlásenia Slovenska za samostatnú cirkevnú provinciu"/>
+
+  <calendarDate date="1231" namedays="Silvester" holidays="" worldDay=""/>
+</calendar>
