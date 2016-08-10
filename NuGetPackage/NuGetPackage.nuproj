@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|AnyCPU">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|AnyCPU">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>845ae6ff-95f1-445b-b661-4a0ec035e51c</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NuProjPath Condition=" '$(NuProjPath)' == '' ">$(MSBuildExtensionsPath)\NuProj\</NuProjPath>
+  </PropertyGroup>
+  <Import Project="$(NuProjPath)\NuProj.props" Condition="Exists('$(NuProjPath)\NuProj.props')" />
+  <PropertyGroup Label="Configuration">
+    <Id>SKCalendar</Id>
+    <Version>1.0.0</Version>
+    <Title>SKCalendar </Title>
+    <Authors>Marek Delincak</Authors>
+    <Owners>Marek Delincak</Owners>
+    <Summary>Slovak namedays, official holidays and memorial days calendar</Summary>
+    <Description>Slovak calendar showing date with information about namedays, holidays, memorial days and much more offering possibility to format calendar output.</Description>
+    <ReleaseNotes>
+    </ReleaseNotes>
+    <ProjectUrl>https://github.com/ezekiell/SKCalendar</ProjectUrl>
+    <LicenseUrl>https://raw.githubusercontent.com/ezekiell/SKCalendar/master/LICENSE</LicenseUrl>
+    <Copyright>Copyright © Marek Delincak</Copyright>
+    <Tags>slovak calendar namedays</Tags>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Readme.txt" />
+  </ItemGroup>
+  <Import Project="$(NuProjPath)\NuProj.targets" />
+</Project>
