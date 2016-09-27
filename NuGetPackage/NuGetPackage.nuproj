@@ -19,7 +19,7 @@
   <Import Project="$(NuProjPath)\NuProj.props" Condition="Exists('$(NuProjPath)\NuProj.props')" />
   <PropertyGroup Label="Configuration">
     <Id>SKCalendar</Id>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Title>SKCalendar </Title>
     <Authors>Marek Delincak</Authors>
     <Owners>Marek Delincak</Owners>
@@ -34,6 +34,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="Readme.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\src\SkCalendar\SKCalendar.csproj" />
   </ItemGroup>
   <Import Project="$(NuProjPath)\NuProj.targets" />
 </Project>
