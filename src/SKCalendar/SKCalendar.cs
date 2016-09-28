@@ -11,6 +11,28 @@ namespace SKCalendar
         private static List<SKCalendarDate> _dates;
         private readonly Regex _tokenRegex = new Regex("{([^}]*)}", RegexOptions.Compiled);
 
+        /// <summary>
+        /// Creates SK Calendar with Slovak timezone.
+        /// </summary>
+        public SKCalendar()
+        {
+            TimeZoneId = "Central European Standard Time";
+        }
+
+        /// <summary>
+        /// Creates SK Calendar with specific timezone.
+        /// </summary>
+        /// <param name="timeZoneId">Time zone identifier.</param>
+        public SKCalendar(string timeZoneId) : this()
+        {
+            if (TimeZoneInfo.FindSystemTimeZoneById(timeZoneId) != null)
+            {
+                TimeZoneId = timeZoneId;
+            }
+        }
+
+        private string TimeZoneId { get; set; }
+
         private static List<SKCalendarDate> Dates
         {
             get
@@ -24,6 +46,8 @@ namespace SKCalendar
                 return _dates;
             }
         }
+
+        public DateTime Today => TimeZoneInfo.ConvertTimeFromUtc(DateTime.UtcNow, TimeZoneInfo.FindSystemTimeZoneById(TimeZoneId));
 
         /// <summary>
         /// Renders calendar information string according specified format for current day. In the format you can use this tokens:
@@ -46,7 +70,7 @@ namespace SKCalendar
         /// <returns>Rendered calendar information string.</returns>
         public string RenderCalendarInfoForToday(string format)
         {
-            return RenderCalendarInfo(DateTime.Today, format);
+            return RenderCalendarInfo(Today, format);
         }
 
         /// <summary>

@@ -19,14 +19,13 @@
   <Import Project="$(NuProjPath)\NuProj.props" Condition="Exists('$(NuProjPath)\NuProj.props')" />
   <PropertyGroup Label="Configuration">
     <Id>SKCalendar</Id>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Title>SKCalendar </Title>
     <Authors>Marek Delincak</Authors>
     <Owners>Marek Delincak</Owners>
     <Summary>Slovak namedays, official holidays and memorial days calendar</Summary>
     <Description>Slovak calendar showing date with information about namedays, holidays, memorial days and much more offering possibility to format calendar output.</Description>
-    <ReleaseNotes>
-    </ReleaseNotes>
+    <ReleaseNotes>Added possibility to specify time zone Id. Default is Slovak time zone.</ReleaseNotes>
     <ProjectUrl>https://github.com/ezekiell/SKCalendar</ProjectUrl>
     <LicenseUrl>https://raw.githubusercontent.com/ezekiell/SKCalendar/master/LICENSE</LicenseUrl>
     <Copyright>Copyright © Marek Delincak</Copyright>
